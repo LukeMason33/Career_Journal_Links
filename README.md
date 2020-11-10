@@ -31,7 +31,7 @@ Week 4: https://gist.github.com/LukeMason33/526296abd05caff449cbadc772324076
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
-Week 5: https://gist.github.com/LukeMason33/526296abd05caff449cbadc772324076
+Week 5: https://gist.github.com/LukeMason33/90532182cf447e386fad55e3bb19e7b8
 - [x] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
