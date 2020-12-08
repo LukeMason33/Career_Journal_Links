@@ -40,8 +40,8 @@ If you will not be able to complete your journal this week, please provide an up
 
 ### Mod 2
 
-Week 1: [Link here to your gist]
-- [ ] (completed)
+Week 1: https://gist.github.com/LukeMason33/a7a52d0ab584cd0ee69fab1eebd2555c
+- [x] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
